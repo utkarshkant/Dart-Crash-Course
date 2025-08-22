@@ -9,3 +9,7 @@
 ## 2. Functions
 - 2a. Functions - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/functions.dart
 - 2b. Named Parameters (or Positional Arguments) - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/named_parameters.dart
+
+## 3. Data Structures
+- 3a. Lists -
+- 3b. Sets - 
