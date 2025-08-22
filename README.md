@@ -11,5 +11,5 @@
 - 2b. Named Parameters (or Positional Arguments) - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/named_parameters.dart
 
 ## 3. Data Structures
-- 3a. Lists -
+- 3a. Lists - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/lists.dart
 - 3b. Sets - 
