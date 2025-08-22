@@ -6,6 +6,7 @@ void main() {
   // name = 123; // Error - data type of a `var` variable cannot be changed once declared
   name = 'luigi';
   print(name);  // luigi
+  // var name = 'Utkarsh' // Error - variable with the same name cannot be re-defined
 
   final age = 25;
   // age = 26;  // Error - value of a `final` variable cannot be changed once declared
