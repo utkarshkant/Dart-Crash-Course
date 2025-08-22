@@ -7,4 +7,5 @@
 - 1d. Null Safety - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/null_safety.dart
 
 ## 2. Functions
-2a. Functions - 
+2a. Functions - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/functions.dart
+2b. Named Parameters (or Positional Arguments) - 
