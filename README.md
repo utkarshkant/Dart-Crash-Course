@@ -15,4 +15,4 @@
 - 3b. Sets - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/sets.dart
 
 ## 4. Control Flow
-- 4a. For Loops and Conditional Statements - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/for_loop_and_conditional_statements.dart
+- 4a. For Loops & Conditional Statements - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/for_loop_and_conditional_statements.dart
