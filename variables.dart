@@ -1,0 +1,21 @@
+// Dart is a statically typed programming language, therefore, the data type of a declared variable cannot be changed later
+
+void main() {
+  var name = 'mario';
+  print(name);
+  // name = 123; // data type of a `var` variable cannot be changed once declared
+  name = 'luigi';
+  print(name);
+
+  final age = 25;
+  // age = 26;  // value of a `final` variable cannot be changed once declared
+  print(age);
+
+  const isOpen = true;
+  print(isOpen);
+  // isOpen = false; // value of a `const` variable cannot be changed once declared
+
+  // `final` vs `const`
+  // `final` is a runtime constant variable, `const` is a compile-time constant variable
+  // typically, we use final when we are unsure what the value will be at compile time
+}
