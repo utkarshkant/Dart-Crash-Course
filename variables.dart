@@ -5,14 +5,14 @@ void main() {
   print(name);  // mario
   // name = 123; // Error - data type of a `var` variable cannot be changed once declared
   name = 'luigi';
-  print(name);
+  print(name);  // luigi
 
   final age = 25;
   // age = 26;  // Error - value of a `final` variable cannot be changed once declared
-  print(age);
+  print(age);  // 25
 
   const isOpen = true;
-  print(isOpen);
+  print(isOpen);  // true
   // isOpen = false; // Error - value of a `const` variable cannot be changed once declared
 
   /* 
