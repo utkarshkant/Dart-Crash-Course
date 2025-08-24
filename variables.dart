@@ -18,7 +18,8 @@ void main() {
 
   /* 
   `final` vs `const`
-  - `final` is a runtime constant variable, `const` is a compile-time constant variable
-  - typically, we use final when we are unsure what the value will be at compile time
+  - `final` is a runtime constant variable
+  - `const` is a compile-time constant variable
+  - Typically, we use `final` when we are unsure what the value will be at compile time
   */
 }
