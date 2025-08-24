@@ -18,3 +18,5 @@
 ## 4. Control Flow
 - 4a. For Loops & Conditional Statements - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/for_loop_and_conditional_statements.dart
 
+## 5. OOPs
+- 5a. Classes and Inheritance - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/classes_inheritance.dart
