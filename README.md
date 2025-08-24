@@ -21,3 +21,4 @@
 ## 5. OOPs
 - 5a. Classes & Inheritance - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/classes_inheritance.dart
 - 5b. Methods & Method Overriding - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/methods.dart
+- 5c. Generics - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/generics.dart
