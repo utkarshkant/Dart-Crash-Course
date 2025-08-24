@@ -1,4 +1,5 @@
-/* LISTS
+/*
+LISTS
 - contained inside a `[]`
 - can contain elements with different data types
 */
