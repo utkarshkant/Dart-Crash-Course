@@ -19,6 +19,9 @@ void main() {
   
   // List<int> marks2 = ['asdasd', 23, 343, 56]; // Error: A value of type 'String' can't be assigned to a variable of type 'int'.
   
+  // number of items in a list
+  print(marks.length);  // 6
+  
   // call elements of a list by their index
   print("Complete list: $marks"); // Complete list: [20, 30, 40, 66, 78, 92, 23]
   print("First element: ${marks[0]}");  // First element: 20
@@ -47,8 +50,7 @@ void main() {
   marks.removeLast();
   print("After removing last element: $marks"); // After removing last element: [25, 30, 40, 78, 92, 23]
   
-  // number of items in a list
-  print(marks.length);  // 6
+
   
   // find element by index
   print("Index of `40`: ${marks.indexOf(40)}");
