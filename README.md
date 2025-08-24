@@ -26,7 +26,7 @@
 ## 6. Futures, Asyn & Await
 - 6a. Futures - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/futures_post.dart
 - 6b. Async & Await - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/async_await.dart
-
+- 6c. Example of fetching data from API - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/fetching_data_from_api.dart
 
 
 
