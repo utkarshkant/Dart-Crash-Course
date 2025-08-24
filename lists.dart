@@ -50,8 +50,6 @@ void main() {
   marks.removeLast();
   print("After removing last element: $marks"); // After removing last element: [25, 30, 40, 78, 92, 23]
   
-
-  
   // find element by index
   print("Index of `40`: ${marks.indexOf(40)}");
   
