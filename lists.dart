@@ -5,7 +5,7 @@ LISTS
 */
 void main() {
   
-  // decalare a list with elements records inside `[]`
+  //declare a list with elements recorded inside `[]`
   var scores = [50, 60, 23, 98];
   print(scores);  // [50, 60, 23, 98]
   
