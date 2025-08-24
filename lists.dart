@@ -24,6 +24,9 @@ void main() {
   print("First element: ${marks[0]}");  // First element: 20
   print("Second element: ${marks[1]}"); // Second element: 30
   print("Sixth element: ${marks[5]}");  // Sixth element: 92
+  print("Last element: ${marks.last}"); // Last element: 23
+  print("Second Last element: ${marks[marks.length-2]}"); // Second Last element: 92
+  print("Third Last element: ${marks[marks.length-3]}");  // Third Last element: 78
   
   // change value of an existing element
   marks[0] = 25;
