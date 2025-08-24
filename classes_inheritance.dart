@@ -1,11 +1,12 @@
 /*
 CLASSES
-- Classes are used to create objects with custom properties
+- Classes are used to create objects with custom properties.
 - Example: All the items in a menu will have the same properties, like, Name, Description, Price, etc.
 
 INHERITANCE
-- One class gets all the properties of the parent class
-- Example: below, the class `Pizza` gets all the properties of the class `MenuItem`
+- One class gets all the properties of the parent class.
+- The class extending the properties of the parent class is called the child class.
+- Example: below, the class `Pizza` gets all the properties of the class `MenuItem`.
 */
 void main() {
   var vegNoodles = MenuItem('Veg Noodles', 99.99);
