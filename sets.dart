@@ -21,9 +21,7 @@ void main() {
   print(names); // {manoj, pinki, ramesh, imran, mario, Ross}
 
   names.add('mario');
-  print(
-    names,
-  ); // {manoj, pinki, ramesh, imran, mario, Ross} - duplicate entry was not added
+  print(names); // {manoj, pinki, ramesh, imran, mario, Ross} - duplicate entry was not added
 
   // remove an element from the set
   names.remove('ross');
