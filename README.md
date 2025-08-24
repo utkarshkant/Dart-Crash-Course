@@ -22,3 +22,6 @@
 - 5a. Classes & Inheritance - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/classes_inheritance.dart
 - 5b. Methods & Method Overriding - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/methods.dart
 - 5c. Generics - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/generics.dart
+
+## 6. Futures, Asyn & Await
+- 6a. Futures - https://github.com/utkarshkant/Dart-Crash-Course/blob/main/futures_post.dart
